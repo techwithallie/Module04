@@ -47,9 +47,13 @@ li {
     display: inline;
     padding: 0.5em;}
 
-#nav, #footer {
+#nav {
     background-color: blanchedalmond;
     padding: 0.5em 0;}
+ #footer {
+    background-color: navajowhite;
+    padding: 0.5em 0;
+ }
 
 #feature, .article {
     height: 10em;
